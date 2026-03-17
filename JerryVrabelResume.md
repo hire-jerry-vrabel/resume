@@ -2,7 +2,7 @@
 
 Web Application Programmer
 Chicago, Illinois • +1-312-961-4145 • [hire.jerry.vrabel@gmail.com](hire.jerry.vrabel@gmail.com) •
-[linkedin.com/in/forwardslash-development](https://linkedin.com/in/forwardslinkedin.com/in/forwardslash-development](https://linkedin.com/in/forwardslash-development)
+[linkedin.com/in/forwardslash-development](https://linkedin.com/in/forwardslash-development)
 
 ---
 

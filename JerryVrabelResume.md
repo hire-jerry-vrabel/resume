@@ -12,8 +12,6 @@ technical teams and implementing leading-edge technologies to drive
 innovation. Seeking a Senior Software Engineering role to excel in
 delivering top-tier development solutions.
 
----
-
 ## **RELEVANT WORK EXPERIENCE**
 
 ### **Forwardslash Development, Chicago, IL**

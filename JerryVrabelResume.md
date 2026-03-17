@@ -71,14 +71,10 @@ user engagement and a consistent brand experience across devices.
 updates, and best practices, ensuring web application remained secure and
 compliant with industry standards.
 
----
-
 ## **EDUCATION**
 
 **Illinois State University, Normal, IL**
 *Coursework in Computer Science*
-
----
 
 ## **SKILLS**
 

@@ -4,8 +4,6 @@ Web Application Programmer
 Chicago, Illinois • +1-312-961-4145 • [hire.jerry.vrabel@gmail.com](hire.jerry.vrabel@gmail.com) •
 [linkedin.com/in/forwardslash-development](https://linkedin.com/in/forwardslash-development)
 
----
-
 ## **SUMMARY**
 
 Experienced engineer skilled in front-end and back-end technologies with a
@@ -96,8 +94,7 @@ integrations
 **Databases**: MySQL, MongoDB, PostgreSQL
 **Version Control**: Git (GitHub, GitLab, Bitbucket)
 **Cloud & Hosting**: AWS (EC2, S3), Azure, Pantheon, Vercel, Netlify
-**PWA Technologies**: Service workers, Offline-first design, Push
-notifications
+**PWA Technologies**: Service workers, Offline-first design, Push notifications
 **DevOps & CI/CD**: Docker, Jenkins, CircleCI
 **Optimization**: Webpack, Babel, Lazy loading, Code splitting
 **Testing**: Jest, Cypress, Playwright
